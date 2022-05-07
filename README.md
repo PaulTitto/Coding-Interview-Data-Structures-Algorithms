@@ -4,4 +4,5 @@ https://github.com/VicodinAbuser/ZTM-DS-and-Algo-Python
 
 This is our repo for challenge about coding interview
 Do you know if you don't know about it. It's very important for apply job. 
-Also we need resources for learning and practice more and more and more
+Also we need resources for learning and practice more and more and more.
+Enjoying to learn about it,
